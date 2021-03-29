@@ -24,6 +24,10 @@ p {
   margin: 0;
 }
 
+hr {
+  background-color: grey;
+}
+
 /*******************************CLASS SELECTORS********************************/
 
 .account-data {
